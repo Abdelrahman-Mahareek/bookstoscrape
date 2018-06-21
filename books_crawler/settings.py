@@ -67,7 +67,7 @@ ROBOTSTXT_OBEY = False
 ITEM_PIPELINES = {
    'scrapy.pipelines.images.ImagesPipeline': 1,
 }
-IMAGES_STORE = 'D:/Courses/Python/books_crawler/books_crawler/imgs'
+IMAGES_STORE = 'D:/Courses/Python/Scrapy Projects/books_crawler/books_crawler/imgs'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
