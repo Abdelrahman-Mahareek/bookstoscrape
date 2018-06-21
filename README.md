@@ -1,7 +1,11 @@
 # Books To Scrape [URL](http://books.toscrape.com/)
-[screenshot](./screenshot.JPG)
+##Screenshots
+
+### Main Page
 ![alt text](./screenshot.JPG "")
 
+### Book's Page Sample 
+![alt text](./screenshot02.JPG "")
 ## Spiders 
 * books 
 
