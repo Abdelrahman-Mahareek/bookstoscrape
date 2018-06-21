@@ -1,7 +1,7 @@
 # Books To Scrape
 
 ## Spiders 
-..* books 
+* books 
 
 ## Usage 
 1. Scrapping Every book's page in the first page 
